@@ -1,0 +1,5 @@
+qiskit
+numpy
+flask
+pycryptodome
+qiskit-aer
